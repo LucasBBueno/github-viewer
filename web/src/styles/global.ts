@@ -28,6 +28,7 @@ export const GlobalStyles = createGlobalStyle`
 
   #root {
     font-size: 60.0%;
+    background: #e0dfda;
   }
 
   * {
@@ -51,10 +52,6 @@ export const GlobalStyles = createGlobalStyle`
   span,
   p {
     font: 400 1.4rem Roboto-Regular;
-  }
-
-  h1, h2, h3 {
-    font: 24px OratorStd;
   }
 
   button {

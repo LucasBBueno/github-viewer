@@ -49,8 +49,8 @@ Para exececutar a aplicação, precisamos instalar as depêndencias, para isso �
 Após isso podemos realizar o clone da aplicação via terminal/prompt de comando da seguinte maneira:
 
 ```
-$ git clone https://github.com/LucasBBueno/desafio-jfy
-$ cd desafio-jfy
+$ git clone https://github.com/LucasBBueno/github-viewer
+$ cd github-viewer
 $ cd web
 ```
 

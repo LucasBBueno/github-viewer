@@ -106,5 +106,5 @@ export const Background = styled.div`
   background: url(${backgroundImg}) no-repeat;
   background-size: cover;
 
-  animation: ${appearBackground} 1.5s;
+  animation: ${appearBackground} 0.5s;
 `;
